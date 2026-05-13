@@ -64,14 +64,6 @@
   background-color: #ffffff;
 }
  
-.summer2024-buttons1 {
-  border: 2px dashed rgba(120, 120, 120, 0.4);
-  display: flex;
-  align-items: center;
-  flex-direction: row;
-  justify-content: space-between;
-}
- 
 .summer2024-burger-menu {
   display: none;
 }

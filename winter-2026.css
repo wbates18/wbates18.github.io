@@ -64,13 +64,6 @@
   background-color: #ffffff;
 }
 
-.winter2026-buttons1 {
-  border: 2px dashed rgba(120, 120, 120, 0.4);
-  display: flex;
-  align-items: center;
-  flex-direction: row;
-  justify-content: space-between;
-}
 
 .winter2026-burger-menu {
   display: none;
