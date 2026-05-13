@@ -52,6 +52,17 @@
   text-decoration: none;
   background-color: #ffffff;
 }
+
+.summer2024-navlink3 {
+  color: #000000;
+  margin-left: var(--dl-space-space-twounits);
+  padding-top: 10px;
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-bottom: 10px;
+  text-decoration: none;
+  background-color: #ffffff;
+}
  
 .summer2024-buttons1 {
   border: 2px dashed rgba(120, 120, 120, 0.4);
